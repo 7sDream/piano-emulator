@@ -53,6 +53,7 @@ PianoEmulator
 ### 第二部分 软件使用介绍
 
 打开软件后看到的界面如下
+
 ![fistScreen][firstscreen]
 
 各个地方的功能如下
