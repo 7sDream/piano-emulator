@@ -26,7 +26,6 @@ PianoEmulator
         pianoBoard.bmp
         pianoBoard.psd
         playNotes.m
-        readme.txt
         
 
 ```
@@ -48,7 +47,6 @@ PianoEmulator
  - `getPositionInTable.m` 由鼠标点击窗口里键盘的位置算出按的是哪个键
 - `pianoBoard.bmp`、`keyboardMap.png` 见上
 - `pianoBoard.psd`、`keyboardMap.psd` 图片的psd格式，方便修改
-- ``
 
 ---
 
